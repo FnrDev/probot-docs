@@ -45,7 +45,7 @@ const config = {
       navbar: {
         title: 'ProBot Docs',
         logo: {
-          alt: 'Discord logo',
+          alt: 'ProBot Logo',
           src: 'https://beta.probot.io/static/logo2.svg',
         },
         items: [
@@ -89,7 +89,7 @@ const config = {
               },
               {
                 label: 'GitHub',
-                href: 'https://github.com/FnrDev/discord-wiki',
+                href: 'https://github.com/FnrDev/probot-docs',
               },
             ],
           },
