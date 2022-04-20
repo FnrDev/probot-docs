@@ -8,13 +8,13 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 const config = {
   title: 'ProBot Docs',
   tagline: 'Docs for ProBot.',
-  url: 'https://your-docusaurus-test-site.com',
+  url: 'https://probot.io',
   baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
   organizationName: 'FnrDev', // Usually your GitHub org/user name.
-  projectName: 'discord-wiki', // Usually your repo name.
+  projectName: 'probot-docs', // Usually your repo name.
 
   presets: [
     [
