@@ -1,5 +1,11 @@
 FnrDev:
   name: Fnr
-  title: Website Founder
+  title: Contributor
   url: https://github.com/FnrDev
   image_url: https://github.com/FnrDev.png
+
+Dramex:
+  name: Dramex
+  title: Founder
+  url: https://github.com/Dramex
+  image_url: https://imgur.com/F4IuZWu.png
